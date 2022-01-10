@@ -1,0 +1,10 @@
+C:\Users\anuwat\source\repos\PianoPix\PianoPix\bin\Debug\PianoPix.exe.config
+C:\Users\anuwat\source\repos\PianoPix\PianoPix\bin\Debug\PianoPix.exe
+C:\Users\anuwat\source\repos\PianoPix\PianoPix\bin\Debug\PianoPix.pdb
+C:\Users\anuwat\source\repos\PianoPix\PianoPix\obj\Debug\PianoPix.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\PianoPix\PianoPix\obj\Debug\PianoPix.Form1.resources
+C:\Users\anuwat\source\repos\PianoPix\PianoPix\obj\Debug\PianoPix.Properties.Resources.resources
+C:\Users\anuwat\source\repos\PianoPix\PianoPix\obj\Debug\PianoPix.csproj.GenerateResource.cache
+C:\Users\anuwat\source\repos\PianoPix\PianoPix\obj\Debug\PianoPix.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\PianoPix\PianoPix\obj\Debug\PianoPix.exe
+C:\Users\anuwat\source\repos\PianoPix\PianoPix\obj\Debug\PianoPix.pdb
